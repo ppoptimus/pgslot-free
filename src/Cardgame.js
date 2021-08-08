@@ -4,14 +4,14 @@ export default function Cardgame() {
   return (
     <div>
       <div className="container-fluid bg-content">
-        <h2 className="mt-2">ยินดีต้อนรับเข้าสู่อณาจักรเกม SLOT</h2>
+      <h2 className="mt-2">ยินดีต้อนรับเข้าสู่อณาจักรเกม SLOT</h2>
         <h3>ทดลองเล่นฟรีแบบไม่อั้น กับเกมส์หลากหลาย Style แบบจุใจได้ที่นี่</h3>
         <p>
           <strong>เกมสล็อต PGSLOT</strong>&nbsp;ที่เราได้คัดสรร และจัดเตรียมไว้ให้บริการสมาชิกทุกท่าน มีหลากหลายรูปแบบ หลากหลายเกม ด้วยภาพที่ละเอียด เสียงเอฟเฟกต์สมจริง สร้างความตื่นเต้น เร้าใจ
           ให้กับผู้เล่นได้ในทุกฟีเจอร์ เปิดประสบการณ์ใหม่ ด้วยการเล่นเกมสล็อตออนไลน์ ของ&nbsp;<strong>PGSLOT</strong>&nbsp;เกมสล็อตออนไลน์ รูปแบบใหม่ ที่มาแรงที่สุดในขณะนี้&nbsp;รับรองว่าทุกท่าน
-          จะได้รับความตื่นตา ตื่นใจ กับเกมสล็อตที่เรานำเสนอแน่นอน อย่าพลาดโอกาสรับเงินรางวัลใหญ่ จากเกมสล็อตออนไลน์ของเรา สมัครสมาชิกใหม่ เพื่อเล่นเกมแบบได้เงินจริงชัวร์ๆ คลิก&nbsp;
+          จะได้รับความตื่นตา ตื่นใจ กับเกมสล็อตที่เรานำเสนอแน่นอน อย่าพลาดโอกาสรับเงินรางวัลใหญ่ จากเกมสล็อตออนไลน์ของเรา หากท่านเป็นสมาชิกอยู่แล้ว คลิกเพื่อเข้าเล่นเกมส์ได้ทันที&nbsp;
           <b>
-            <a href="https://watafak88.com/#/playgame"><button>Play Game</button></a>
+            <a href="https://watafak88.com/#/playgame"><button>เล่นเกมส์</button></a>
           </b>
         </p>
         <div className="row text-center justify-content-center">
@@ -88,7 +88,7 @@ export default function Cardgame() {
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/gdn-ice-fire/index.html?__refer=m.pg-redirect.com&__sv=0&language=th-TH,th;q=0.9&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https://dev.pgslot.cc/home" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/gdn-ice-fire/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot10.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -96,7 +96,7 @@ export default function Cardgame() {
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/heist-stakes/index.html?__refer=m.pg-redirect.com&__sv=0&language=th-TH,th;q=0.9&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https://dev.pgslot.cc/home" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/heist-stakes/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot11.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -104,7 +104,7 @@ export default function Cardgame() {
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/jack-frosts/index.html?__refer=m.pg-redirect.com&__sv=0&language=th-TH,th;q=0.9&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https://dev.pgslot.cc/home" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/jack-frosts/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot12.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -112,7 +112,7 @@ export default function Cardgame() {
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/jewels-prosper/index.html?__refer=m.pg-redirect.com&__sv=0&language=th-TH,th;q=0.9&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https://dev.pgslot.cc/home" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/jewels-prosper/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot13.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -120,7 +120,7 @@ export default function Cardgame() {
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/bikini-paradise/index.html?__refer=m.pg-redirect.com&__sv=0&language=th-TH,th;q=0.9&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https://dev.pgslot.cc/home" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/bikini-paradise/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot14.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -129,7 +129,7 @@ export default function Cardgame() {
           </div>
         
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/lucky-neko/index.html?__refer=m.pg-redirect.com&__sv=0&language=th-TH,th;q=0.9&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https://dev.pgslot.cc/home" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/lucky-neko/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot15.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -137,15 +137,15 @@ export default function Cardgame() {
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/mermaid-riches/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/treasures-aztec/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot16.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
-              <strong>Mermaid Riches</strong>
+              <strong>Treasures of Aztec</strong>
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/opera-dynasty/index.html?__refer=m.pg-redirect.com&__sv=0&language=th-TH,th;q=0.9&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https://dev.pgslot.cc/home" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/opera-dynasty/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot17.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -153,7 +153,7 @@ export default function Cardgame() {
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/queen-bounty/index.html?__refer=m.pg-redirect.com&__sv=0&language=th-TH,th;q=0.9&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https://dev.pgslot.cc/home" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/queen-bounty/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot18.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -161,7 +161,7 @@ export default function Cardgame() {
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/sct-cleopatra/index.html?__refer=m.pg-redirect.com&__sv=0&language=th-TH,th;q=0.9&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https://dev.pgslot.cc/home" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/sct-cleopatra/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot19.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -169,7 +169,7 @@ export default function Cardgame() {
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/sushi-oishi/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/sushi-oishi/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot20.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -177,7 +177,7 @@ export default function Cardgame() {
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/thai-river/index.html?__refer=m.pg-redirect.com&__sv=0&language=th-TH,th;q=0.9&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https://dev.pgslot.cc/home" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/thai-river/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot21.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -185,7 +185,7 @@ export default function Cardgame() {
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/majestic-ts/index.html?__refer=m.pg-redirect.com&__sv=0&language=th-TH,th;q=0.9&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https://dev.pgslot.cc/home" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/majestic-ts/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot22.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -193,7 +193,7 @@ export default function Cardgame() {
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/dragon-hatch/index.html?__refer=m.pg-redirect.com&__sv=0&language=th-TH,th;q=0.9&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https://dev.pgslot.cc/home" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/dragon-hatch/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot23.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -201,7 +201,7 @@ export default function Cardgame() {
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/treasures-aztec/index.html?__refer=m.pg-redirect.com&__sv=0&language=th-TH,th;q=0.9&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https://dev.pgslot.cc/home" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/treasures-aztec/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot24.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -209,7 +209,7 @@ export default function Cardgame() {
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/vampires-charm/index.html?__refer=m.pg-redirect.com&__sv=0&language=th-TH,th;q=0.9&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https://dev.pgslot.cc/home" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/vampires-charm/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot25.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -217,7 +217,7 @@ export default function Cardgame() {
             </div>
           </div>
           <div className="card m-1" style={{ width: "180px", padding: 0 }}>
-            <a href="https://m.pg-demo.com/ways-of-qilin/index.html?__refer=m.pg-redirect.com&__sv=0&language=th-TH,th;q=0.9&bet_type=2&operator_token=fu6fpagpekf7445m6sdeecr8xvkkfvy6&from=https://dev.pgslot.cc/home" target="_blank" rel="noreferrer">
+            <a href="https://m.pg-demo.com/ways-of-qilin/index.html?__refer=m.pg-redirect.com&__sv=0&language=en-US,en;q=0.9&bet_type=2&operator_token=8735ze6y8kp7jpwmxvau7gvytu3adwj4&from=https://dev.pgslot.co/home" target="_blank" rel="noreferrer">
               <img src="img/pgslot26.jpg" className="img-fluid" width="180px" height="241px" alt="pg slot" />
             </a>
             <div className="card-body">
@@ -229,13 +229,13 @@ export default function Cardgame() {
 
       <div className="line-button">
         <a href="https://lin.ee/bDb5ic7" target="blank" rel="noopener">
-          <img rel="preload" as="image" imagesizes="50vw" src="img/line_icon.svg" className="img-fluid" alt="@watafak88"></img>
+          <img rel="preload" as="image" imagesizes="50vw" src="img/line_icon.svg" width="50" height="50" className="img-fluid" alt="@watafak88"></img>
         </a>
       </div>
 
       <div className="facebook-button">
         <a href="https://www.facebook.com/Watafak88/" target="blank" rel="noopener">
-          <img rel="preload" as="image" imagesizes="50vw" src="img/facebook_icon.svg" className="img-fluid" alt="watafak88 fanpage"></img>
+          <img rel="preload" as="image" imagesizes="50vw" src="img/facebook_icon.svg" width="50" height="50" className="img-fluid" alt="watafak88 fanpage"></img>
         </a>
       </div>
     </div>

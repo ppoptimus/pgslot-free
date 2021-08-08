@@ -1,5 +1,5 @@
-import React from "react";
-import "./Header.css";
+
+
 export default function Header() {
   return (
     <div>
@@ -12,7 +12,7 @@ export default function Header() {
             <p />
             <p className="para">Let get real Game here!!</p>
             <a href="/">
-            <button>Register</button>
+            <button>สมัครใหม่</button>
             </a>
           </div>
           <svg width="60vw" height="40vh" viewBox="0 0 728 914" fill="none" xmlns="http://www.w3.org/2000/svg">
